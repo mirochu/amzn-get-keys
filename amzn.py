@@ -70,5 +70,3 @@ if __name__ == "__main__":
     keys = get_amzn_keys(pssh, license_url)
     for key in keys:
         print (key)
-
-
